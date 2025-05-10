@@ -1,3 +1,7 @@
+"""
+尝试使用异步协程requests爬取数据，但没绕过反爬机制，无法访问职位列表。
+"""
+
 import requests
 import csv
 import aiohttp
@@ -20,7 +24,7 @@ async def download(page,position):
 
         # 将数据写入csv文件中
         # 打开文件
-        async with aiofiles.open("数据/data_boss_test.csv",mode='a',encoding='utf-8',newline='') as f:
+        async with aiofiles.open("data/data_boss_test.csv",mode='a',encoding='utf-8',newline='') as f:
             csv_write = csv.writer(f)
 
             # 读入数据
@@ -36,7 +40,7 @@ async def main(number,city,position):
 
     # 将数据写入csv文件中
     # 打开文件
-    with open("数据/data_boss_test.csv", mode='w', encoding='utf-8', newline='') as f:
+    with open("data/data_boss_test.csv", mode='w', encoding='utf-8', newline='') as f:
         csv_write = csv.writer(f)
         csv_write.writerow(data[0].keys())
         # 读入数据

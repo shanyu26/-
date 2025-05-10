@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2365b402-257c-4f66-8816-8a1393e52af5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/boss_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/city&amp;position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_boss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_boss2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/招聘信息可视化.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/招聘信息可视化.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boss_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city&amp;position.py" beforeDir="false" afterPath="$PROJECT_DIR$/city&amp;position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_boss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/city.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/data_boss.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/data_boss.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/position.scv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/province.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据/sub_position.scv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.boss_data.executor": "Run",
-    "Python.city_code.executor": "Run",
-    "Python.data_boss.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.text.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.boss_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_boss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\招聘信息可视化" />
